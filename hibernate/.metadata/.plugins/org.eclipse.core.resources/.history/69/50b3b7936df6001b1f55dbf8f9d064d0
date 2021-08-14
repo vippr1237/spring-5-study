@@ -1,0 +1,10 @@
+package com.ifisolution.jdbc;
+
+public class Testjdbc {
+
+	public static void main(String[] args) {
+		String jbdcURL = 
+
+	}
+
+}

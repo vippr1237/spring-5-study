@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Aug 05 20:36:40 ICT 2021
+org.eclipse.jst.jee.server\:/binary\:E\:\\Sping-study\\spring-demo-mvc\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\Sping-study\\spring-demo-mvc\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar

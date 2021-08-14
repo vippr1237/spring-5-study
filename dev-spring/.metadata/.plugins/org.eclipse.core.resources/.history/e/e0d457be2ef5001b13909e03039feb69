@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+First Name: ${student.firstName}
+<br><br>
+Last Name: ${student.lastName}
+<br><br>
+City: ${student.city }
+</body>
+</html>

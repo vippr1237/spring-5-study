@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\Sping-study\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3567277802.index
+1866858224.index
+3461676005.index
+243148283.index
+1679805390.index
+2359636682.index
+2571600697.index

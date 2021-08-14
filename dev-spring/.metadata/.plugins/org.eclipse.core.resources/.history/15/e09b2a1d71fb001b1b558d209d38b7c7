@@ -1,0 +1,8 @@
+package com.ifisolution.springdemo.dao;
+
+import com.ifisolution.springdemo.entity.Customer;
+
+import antlr.collections.List;
+
+public interface CustomerDAO {
+	public

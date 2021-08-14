@@ -1,0 +1,10 @@
+package com.ifisolution.springdemo;
+
+public interface Coach {
+
+	public Coach(FortuneService fortuneService) {
+		
+	}
+
+	public String getDailyWorkout();
+}

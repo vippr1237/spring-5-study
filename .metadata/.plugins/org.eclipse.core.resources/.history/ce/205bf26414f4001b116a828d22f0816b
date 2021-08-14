@@ -1,0 +1,14 @@
+package com.ifisolution.springdemo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class RandomFortuneService implements FortuneService {
+	private String[] data = { "D thunder God", "D cane put it down", "rat" };
+
+	@Override
+	public String getFortune() {
+		return "";
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.ifisolution.springdemo.dao;
+
+import java.util.List;
+
+import com.ifisolution.springdemo.entity.Customer;
+
+public interface CustomerDAO {
+	public List<Customer> getCustomers();
+
+	public void saveCustomer(Customer customer);
+
+
+}

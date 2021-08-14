@@ -1,0 +1,5 @@
+package com.ifisolution.springdemo.entity;
+
+public class Customer {
+
+}

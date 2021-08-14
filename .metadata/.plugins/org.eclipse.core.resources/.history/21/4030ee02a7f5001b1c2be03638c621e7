@@ -1,0 +1,6 @@
+package com.ifisolution.springdemo.mvc;
+
+public class Customer {
+	private String firstName;
+	private String lastName;
+}

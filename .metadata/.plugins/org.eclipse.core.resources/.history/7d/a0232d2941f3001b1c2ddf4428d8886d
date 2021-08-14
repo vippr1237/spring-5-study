@@ -1,0 +1,8 @@
+package com.ifisolution.springdemo;
+
+import sun.security.action.GetBooleanAction;
+
+public interface FortuneService {
+	public String getDailyFortune
+
+}

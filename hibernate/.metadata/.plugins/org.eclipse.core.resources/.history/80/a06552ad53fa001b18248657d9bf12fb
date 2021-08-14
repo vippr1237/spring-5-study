@@ -1,0 +1,11 @@
+package com.ifisolution.demo.entity;
+
+import javax.persistence.Table;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table(name = "course")
+public class Course {
+
+}
