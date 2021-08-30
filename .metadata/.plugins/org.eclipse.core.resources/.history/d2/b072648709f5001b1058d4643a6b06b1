@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-First Name: ${student.fristName}
-<br><br>
-Last Name: ${student.lastName}
-</body>
-</html>

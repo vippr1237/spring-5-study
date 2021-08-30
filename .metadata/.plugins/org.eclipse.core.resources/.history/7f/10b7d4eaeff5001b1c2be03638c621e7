@@ -1,7 +1,0 @@
-package com.ifisolution.springdemo.mvc.validation;
-
-import javax.validation.ConstraintValidator;
-
-public class CourseCodeConstrainValidator implements ConstraintValidator<CourseCode, String> {
-
-}

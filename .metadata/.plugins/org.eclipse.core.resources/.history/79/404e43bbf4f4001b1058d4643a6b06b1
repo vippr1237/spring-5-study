@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h2>Hello from server :D</h2>
-<br>
-<a href="showForm">Hello World form</a>
-</body>
-</html>

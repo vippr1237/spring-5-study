@@ -1,6 +1,0 @@
-package com.ifisolution.springdemo.mvc.validation;
-
-
-public class CourseCode {
-
-}

@@ -1,5 +1,0 @@
-package com.ifisolution.springdemo.mvc;
-
-public class HelloWorldController {
-
-}
